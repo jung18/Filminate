@@ -36,12 +36,11 @@
 - 사용자의 검색 키워드를 기준으로 영화 제목과 줄거리에서 해당 키워드로 필터링된 목록 제공
 
 ## 실행 화면
+#### **로그인**
+![로그인](https://github.com/user-attachments/assets/19d5eb7d-4ff7-4c6b-93fd-9860b1ac6317)
 
 #### **메인**
 ![main](https://github.com/user-attachments/assets/a30674e6-1da6-40db-87d1-d65325495f19)
-
-#### **로그인**
-![로그인](https://github.com/user-attachments/assets/19d5eb7d-4ff7-4c6b-93fd-9860b1ac6317)
 
 #### **검색**
 ![검색gif](https://github.com/user-attachments/assets/3ea8398f-1835-42fa-9624-b98e4300b4ff)
